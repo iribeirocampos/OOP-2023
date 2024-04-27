@@ -26,7 +26,7 @@ The aim of the project is to develop an application that will act as the manager
 Section 1 presents the entities in the domain of the application to be developed. 
 Section 2 describes the design requirements that the application developed must offer.
 
-[Section1](section1.md)
+[Section1](section1.md) <br>
 [Section2](section2.md)
 
 ## Requirements
@@ -71,4 +71,4 @@ Folder 'pt' is a framework provided by the school, it was not developed by me no
 <h2>Copyright</h2>
 This project is licensed under the terms of the MIT license and protected by IST Honor Code and Community Code of Conduct. 
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/java-00599C?style=for-the-badge&logo=java&logoColor=white">
